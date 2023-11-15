@@ -2,7 +2,6 @@ import Context from './Context';
 
 export { default as Scope } from './Scope';
 export { default as ComponentDeclaration } from './ComponentDeclaration';
-export { default as EndorphinContext } from './EndorphinContext';
 export { Context };
 
 /**
